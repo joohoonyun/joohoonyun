@@ -20,33 +20,17 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-🌆 Daytime                1668 commits        ████████░░░░░░░░░░░░░░░░░   32.16 % 
-🌃 Evening                2290 commits        ███████████░░░░░░░░░░░░░░   44.15 % 
-🌙 Night                  462 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+🌞 Morning                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+🌆 Daytime                1668 commits        ████████░░░░░░░░░░░░░░░░░   32.14 % 
+🌃 Evening                2292 commits        ███████████░░░░░░░░░░░░░░   44.17 % 
+🌙 Night                  462 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (100.0%)
-
-✍️ 31 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 102,241 Input Tokens, 11,502 Output Tokens
-
-💵 $0.64 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 11 AI Prompts
-
-GPT                      31 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,476 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
